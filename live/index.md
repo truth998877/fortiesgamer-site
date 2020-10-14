@@ -21,7 +21,7 @@ modified: 2016-02-01
         width: 1280,
         height: 720,
         channel: "fortiesgamer",
-	parent: "www.fortiesgamer.com/live/" 
+	parent: "www.fortiesgamer.com/live" 
       });
     </script>
 </div>
