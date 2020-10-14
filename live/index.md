@@ -20,7 +20,8 @@ modified: 2016-02-01
       new Twitch.Embed("twitch-embed", {
         width: 1280,
         height: 720,
-        channel: "fortiesgamer" 
+        channel: "fortiesgamer",
+	parent: "www.fortiesgamer.com/live/" 
       });
     </script>
 </div>
