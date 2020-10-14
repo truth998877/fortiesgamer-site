@@ -1,6 +1,6 @@
 ---
 layout: page-blank
-title: fortiesgamer live
+title: FORTIESGAMER LIVE
 image:
   feature: 
   credit: 
